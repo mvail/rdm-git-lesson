@@ -1,5 +1,5 @@
 ---
-title: "Git"
+title: "RDM and Source Control"
 teaching: 0
 exercises: 0
 questions:
@@ -9,3 +9,5 @@ objectives:
 keypoints:
 - "First key point."
 ---
+
+
